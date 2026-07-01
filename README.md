@@ -1,140 +1,89 @@
 <div align="center">
 
-# Hi, I'm Abhinav Palewar 👋
+# Abhinav Palewar
+**Independent Quantitative Researcher | Financial Engineer | AI-Assisted Systematic Investing**
 
-### Independent Quantitative Researcher • Financial Engineer • AI-Assisted Systematic Investing
+Building AI-assisted quantitative research systems for systematic investing.
 
-Building AI-assisted quantitative research systems for institutional investing.
-
-[![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)]()
-[![Quant Research](https://img.shields.io/badge/Quantitative-Research-darkgreen)]()
-[![Financial Engineering](https://img.shields.io/badge/Financial-Engineering-blueviolet)]()
-[![AI](https://img.shields.io/badge/AI-Assisted%20Research-black)]()
+[![GitHub followers](https://img.shields.io/github/followers/Vemacitrin?style=flat&label=GitHub&color=24292f)](https://github.com/Vemacitrin)
+[![Python](https://img.shields.io/badge/Python-Research%20Systems-3776AB?logo=python&logoColor=white)](https://github.com/Vemacitrin)
+[![Quant Research](https://img.shields.io/badge/Quantitative%20Research-Systematic%20Investing-0f766e)](https://github.com/Vemacitrin)
+[![AI Assisted](https://img.shields.io/badge/AI--Assisted-Research%20Workflows-111827)](https://github.com/Vemacitrin)
 
 </div>
 
 ---
 
-# About Me
+## Short Intro
+I build research systems at the intersection of quantitative finance, financial engineering, data engineering, and AI-assisted research automation. My work focuses on disciplined systematic investing workflows: dataset governance, alpha discovery, validation, portfolio evaluation, and research memory.
 
-I am an Independent Quantitative Researcher with international experience across asset management, financial engineering, digital transformation, and sustainable finance.
+## Current Focus
+- AI-assisted quantitative research systems.
+- Multi-asset systematic investing research.
+- Financial data engineering and dataset governance.
+- Alpha discovery workflows and evidence-based validation.
+- Walk-forward validation and portfolio evaluation.
+- Research operating systems for human and AI collaboration.
 
-I am currently building **Tantrik**, an AI-assisted quantitative research platform focused on discovering, validating, and evaluating systematic investment strategies across:
+## Featured Project: Tantrik Research Platform
+**Tantrik Research Platform**  
+AI-assisted quantitative research platform for systematic investment strategy discovery across equities, commodities, and crypto.
 
-- Equities
-- Commodities
-- Crypto
-- Multi-Asset Portfolios
+Repository: [Vemacitrin/tantrik-research-platform](https://github.com/Vemacitrin/tantrik-research-platform)
 
-My research philosophy is simple:
+Tantrik is designed as a long-term research operating system rather than a collection of isolated scripts. It emphasizes information-source governance, research lifecycle discipline, dataset lineage, validation before promotion, and preservation of research learning.
 
-> **Evidence before optimization. Information before alpha. Robustness before promotion.**
+## Research Metrics
+These are research-system capabilities, not performance claims:
 
----
+- AI-assisted quantitative research platform.
+- Multi-asset research.
+- Alpha Discovery Engine.
+- Dataset Factory.
+- Walk-forward validation.
+- Portfolio evaluation.
+- Research governance.
 
-# Current Focus
+## Architecture Diagram
+```text
+Financial Data
+      |
+      v
+Reality Models
+      |
+      v
+Alpha Discovery Engine
+      |
+      v
+Validation
+      |
+      v
+Portfolio Evaluation
+      |
+      v
+Research Learning
+```
 
-- Quantitative Research
-- Financial Engineering
-- AI-Assisted Research
-- Systematic Investing
-- Portfolio Construction
-- Multi-Asset Research
-- Alpha Discovery
-- Data Engineering
+## GitHub Stats
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vemacitrin&show_icons=true&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vemacitrin&layout=compact&hide_border=true)
+![Contribution Streak](https://streak-stats.demolab.com?user=Vemacitrin&hide_border=true)
 
-# Flagship Project
+</div>
 
-## Tantrik
+## Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vemacitrin&theme=github-compact&hide_border=true)
 
-AI-assisted quantitative research platform for systematic investment research.
+## Featured Repositories
+| Repository | Focus |
+| --- | --- |
+| [tantrik-research-platform](https://github.com/Vemacitrin/tantrik-research-platform) | AI-assisted quantitative research platform for systematic investment strategy discovery |
+| [Vemacitrin](https://github.com/Vemacitrin/Vemacitrin) | GitHub profile and research identity |
 
-Current capabilities include:
+## Contact
+- GitHub: [@Vemacitrin](https://github.com/Vemacitrin)
+- Featured project: [Tantrik Research Platform](https://github.com/Vemacitrin/tantrik-research-platform)
 
-- Alpha Discovery Engine
-- Dataset Factory
-- Walk-Forward Validation
-- Portfolio Evaluation
-- Research Governance
-- Research Memory
-- Multi-Asset Dataset Engineering
-
-Repository:
-
-➡️ **tantrik-research-platform**
-
----
-
-# Technical Stack
-
-### Languages
-
-- Python
-- SQL
-
-### Research
-
-- Quantitative Research
-- Portfolio Construction
-- Financial Engineering
-- Statistical Modelling
-- Walk-Forward Validation
-- Backtesting
-
-### AI
-
-- AI-Assisted Research
-- LLM Workflows
-- Research Automation
-
-### Data
-
-- Pandas
-- NumPy
-- Data Engineering
-- Financial Data Pipelines
-
----
-
-# Education
-
-🎓 MSc Financial Engineering — WorldQuant University
-
-🎓 MSc Economics — University of Luxembourg
-
-🎓 MSc Financial Markets & Investments — SKEMA Business School
-
-🎓 Bachelor's in Electronics Engineering
-
----
-
-# Research Interests
-
-- Quantitative Finance
-- AI for Finance
-- Multi-Asset Investing
-- Portfolio Construction
-- Financial Engineering
-- Machine Learning
-- Statistical Learning
-- Systematic Investing
-
----
-
-# Current Mission
-
-Build an institutional-grade AI-assisted quantitative research platform capable of discovering, validating, and evaluating systematic investment strategies through disciplined, evidence-driven research.
-
----
-
-# Connect
-
-- LinkedIn
-- Email
-- Tantrik Repository
-
----
-
-> *"The goal isn't to predict markets. The goal is to build better research systems."*
+Open to conversations on quantitative research, AI-assisted research infrastructure, financial engineering, systematic investing, and data-driven portfolio research.
