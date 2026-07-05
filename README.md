@@ -45,23 +45,28 @@ These are research-system capabilities, not performance claims:
 - Research governance.
 
 ## Architecture Diagram
-```text
-Financial Data
-      |
-      v
-Reality Models
-      |
-      v
-Alpha Discovery Engine
-      |
-      v
-Validation
-      |
-      v
+```Financial Data
+        │
+        ▼
+Information Source
+        │
+        ▼
+Economic Mechanism
+        │
+        ▼
+Information Content
+        │
+        ├────────► Stop if no predictive information
+        ▼
+Strategy Validation
+        │
+        ├────────► Stop if not robust
+        ▼
 Portfolio Evaluation
-      |
-      v
-Research Learning
+        │
+        ├────────► Stop if no independent return stream
+        ▼
+Research Knowledge
 ```
 
 ## GitHub Stats
